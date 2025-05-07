@@ -2,7 +2,7 @@
 
 ## Overview
 
-A Python-based web scraper designed to generally extract linguistic data from websites using Large Language Models (LLMs). It takes in a base URL and sends its HTML content to an LLM (specifically via OpenRouter, but can be modified to locally inference). The LLM, using chain of thought reasoning, then interprets the structure of the page (pagination hierarchies, content structure and sends back a structured JSON object with a) the content of the current page and b) the next page for traversal.
+A Python-based web scraper designed to generally extract linguistic data from websites using Large Language Models (LLMs). It takes in a base URL and sends its HTML content to an LLM (specifically via OpenRouter, but can be modified to inference locally). The LLM, using chain of thought reasoning, then interprets the structure of the page (pagination hierarchies, content structure and sends back a structured JSON object with a) the content of the current page and b) the next page for traversal.
 
 * main.py: Orchestrates the scraping process, manages concurrency, and handles data aggregation
 * scrape.py: Fetches, normalizes HTML content
