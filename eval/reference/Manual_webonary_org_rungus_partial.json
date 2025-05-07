@@ -1,0 +1,1237 @@
+{
+    "alaasan": {
+        "translations": {
+          "english": "split",
+          "malay": "belah"
+        },
+        "example_sentences": [
+          {
+            "rungus": "Kada kakato ino gantang, avagat ino. Alaasan ko dati.",
+            "english": "Don't carry that gallon, it is very heavy. You'll do your back out.",
+            "malay": "Jangan angkat gantang ini, sangat berat. Nanti belakang mu sakit."
+          }
+        ]
+    },
+    "azaton": {
+        "translations": {
+          "english": "adding",
+          "malay": "tambahan"
+        },
+        "example_sentences": []
+    },
+    "abandak": {
+        "translations": {
+          "english": "colourful",
+          "malay": "warna-warni"
+        },
+        "example_sentences": []
+    },
+    "ahapak": {
+        "translations": {
+          "english": "beehive full of honey",
+          "malay": "rumah lebah yang banyak madu"
+        },
+        "example_sentences": [{
+            "rungus": "Ahapak ilo valai do potizukan.",
+            "english": "The beehive is full of honey.",
+            "malay": "Lebah madu itu mempunyai madu yang banyak."
+        }]
+    },
+    "ampangil": {
+        "translations": {
+          "english": "ankle",
+          "malay": "pergelangan kaki, buku lali"
+        },
+        "example_sentences": [
+          {
+            "rungus": "Nosiduol ilot ampangil ku.",
+            "english": "I sprained my ankle.",
+            "malay": "Pergelangan kaki saya terseliuh"
+          }
+        ]
+    },
+    "baas": {
+        "translations": {
+          "english": "bus",
+          "malay": "bas"
+        },
+        "example_sentences": [{
+          "rungus": "Sumako tokou baas sumorid KK.",
+          "english": "Let's go by bus to KK.",
+          "malay": "Kita menaiki bas ke KK."
+        }]
+    },
+    "baksut": {
+        "translations": {
+          "english": "buckshot",
+          "malay": "baksut"
+        },
+        "example_sentences": [
+          {
+            "rungus": "Isai varu baksut sitid kampung tokou?",
+            "english": "Who has a buckshot weapon in our village?",
+            "malay": "Siapa yang memiliki baksut di kampung kita?"
+          }
+        ]
+    },
+    "basag": {
+        "translations": {
+          "english": "affordable",
+          "malay": "setakat termampu"
+        },
+        "example_sentences": [{
+          "rungus": "Basag no do tolu pinggan ot avi ku mangakan o ginazau.",
+          "english": null,
+          "malay": "Saya hanya mampu makan setakat tiga pinggan nasi sahaja."
+        }]
+    },
+    "bodung": {
+        "translations": {
+          "english": "eel",
+          "malay": "belut laut"
+        },
+        "example_sentences": [{
+          "rungus": "Ogumu ot ulang ong bodung.",
+          "english": "Eel have many bones.",
+          "malay": "Belut mempunyai banyak tulang."
+        }]
+    },
+    "buyuk": {
+        "translations": {
+          "english": "cheat",
+          "malay": "tipu"
+        },
+        "example_sentences": [{
+          "rungus": "Buyuk ko mai bo. Varo-i nga aso no kanu.",
+          "english": "You cheat! You still have it but you said its gone.",
+          "malay": "Kamu tipu. Kamu masih ada tapi kamu kata tiada."
+        }]
+    },
+    "dahada": {
+        "translations": {
+          "english": "track, trace, effect, signs, proof of presence (as footprints, dead grass)",
+          "malay": "kesan, bekas"
+        },
+        "example_sentences": [{
+          "rungus": "Varo-i dahada di neksidon yoti Toto sid simpangan.",
+          "english": "There is still track where Toto get excident yesterday.",
+          "malay": "Masih ada kesan dimana Toto kemalangan kelmarin."
+        }]
+    },
+    "dinula'an (dula)": {
+        "translations": {
+          "english": "diludahi",
+          "malay": "spit on"
+        },
+        "example_sentences": [
+          {
+            "rungus": "Dinula'an do vulanut ilo mato dot asu dilo nga nobolou.",
+            "english": "A snake spit on the dog's eyes, that why the dog is blind.",
+            "malay": "Mata anjing itu telah buta akibat diludahi oleh ular."
+          }
+        ]
+    },
+    "dopital": {
+        "translations": {
+          "english": "register",
+          "malay": "daftar"
+        },
+        "example_sentences": [{
+          "rungus": "Dopital kou po siti, om suvang kou ogi jumumpa dokutul.",
+          "english": null,
+          "malay": "Kamu daftar dahulu di sini sebelum kamu masuk jumpa doktor."
+        }]
+    },
+    "dudukan": {
+        "translations": {
+          "english": "gizzard",
+          "malay": "hempedal (ayam)"
+        },
+        "example_sentences": [
+          {
+            "rungus": "Dudukan do manuk akan-i.",
+            "english": "Chicken gizzard can be eaten.",
+            "malay": "Hempedal ayam boleh di makan."
+          }
+        ]
+    },
+    "duzomut": {
+        "translations": {
+          "english": "slow working with no end to it",
+          "malay": "leka, lambat"
+        },
+        "example_sentences": [
+          {
+            "rungus": "Oduzomut noma ong ikau do suhuon.",
+            "english": null,
+            "malay": null
+          }
+        ]
+    },
+    "ehim": {
+        "translations": {
+          "english": "searched for",
+          "malay": "dicari"
+        },
+        "example_sentences": [
+        ]
+    },
+    "endanan": {
+        "translations": {
+          "english": "know, recognize",
+          "malay": "diketahui"
+        },
+        "example_sentences": [
+        ]
+    },
+    "engin": {
+      "translations": {
+        "english": "would like",
+        "malay": "mahu"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Engin oku sumikul dara nga aso balanjaon.",
+          "english": "I",
+          "malay": "Saya ingin meneruskan persekolahan tetapi duit belanja persekolahan tiada."
+        }
+      ]
+    },
+    "erou": {
+      "translations": {
+        "english": "shiny",
+        "malay": "berkilat"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Erou ino kasut nu.",
+          "english": null,
+          "malay": "Kasut kamu berkilat."
+        }
+      ]
+    },
+    "eseso (iso)": {
+      "translations": {
+        "english": "alone, single-minded, sincere",
+        "malay": "berseorangan, iklas"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Eseso oku sid valai konihab tu minomod oling yoti sid KK.",
+          "english": null,
+          "malay": "Saya berseorangan di rumah kemarin kerana mereka semua pergi ke KK."
+        }
+      ]
+    },
+    "gading": {
+      "translations": {
+        "english": "ivory tusk (of elephant)",
+        "malay": "gading gajah"
+      },
+      "example_sentences": [
+
+      ]
+    },
+    "gansad": {
+      "translations": {
+        "english": "hack by hand",
+        "malay": "tetak dengan menggunakan tangan, karate"
+      },
+      "example_sentences": [
+      ]
+    },
+    "ginsu": {
+      "translations": {
+        "english": "lipstick",
+        "malay": "lipstik, gincu"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Mamakai do ginsu nga aragang o munung.",
+          "english": "Use a lipstick so your lip's willl be read.",
+          "malay": "Pakai gincu supaya bibir kamu merah."
+        }
+      ]
+    },
+    "gozouvon (gaza'u)": {
+      "translations": {
+        "english": "cooked",
+        "malay": "masak"
+      },
+      "example_sentences": [
+      ]
+    },
+    "guung": {
+      "translations": {
+        "english": "knag, knot of branch of wood",
+        "malay": "buku kayu, ruas"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Agazo guung sid puun dilo ratu tinanom ku.",
+          "english": null,
+          "malay": null
+        }
+      ]
+    },
+    "haan": {
+      "translations": {
+        "english": null,
+        "malay": "perkataan yang digunakan untuk menggesa kerbau berjalan"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Haan ambau! Pamanau banal.",
+          "english": null,
+          "malay": "Haan! Cepat jalan wahai sang kerbau."
+        }
+      ]
+    },
+    "hapas": {
+      "translations": {
+        "english": "general term for broken gongs",
+        "malay": "tidak tulin (spt gong, tembaga,etc), tidak berguna penuh seperti sisa"
+      },
+      "example_sentences": [
+      ]
+    },
+    "hodsok": {
+      "translations": {
+        "english": "spear, pierce with spear",
+        "malay": "tikam dengan pisau, lembing"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Hodsokon dioti mamatai i kalasiu ong kodori.",
+          "english": null,
+          "malay": "Seladang itu mereka tikam dengan lembing untuk membunuhnya pada masa dahulu."
+        }
+      ]
+    },
+    "humakau": {
+      "translations": {
+        "english": "appear in many places, gang up, become strong, increase in number",
+        "malay": "bermunculan"
+      },
+      "example_sentences": [
+      ]
+    },
+    "huntad": {
+      "translations": {
+        "english": "done something (as eat, etc) before leaving (house or life)",
+        "malay": "melakukan sesuatu (spt makan, etc) sebelum meninggalkan (rumah atau mati)"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Minodsu oku po di huntad dahai mamanau mokiubat.",
+          "english": null,
+          "malay": "Saya mandi dahulu sebelum kami jalan ke rumah sakit."
+        }
+      ]
+    },
+    "ibak": {
+      "translations": {
+        "english": "hole of mortar for rice pounding",
+        "malay": "memasukkan padi ke dalam lesung"
+      },
+      "example_sentences": [
+      ]
+    }, 
+    "imomoug": {
+      "translations": {
+        "english": "gargle",
+        "malay": "kumur"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Asakau ong imomoug nga tolonon i.",
+          "english": null,
+          "malay": "Kotor sekiranya air kumuran pun di telan."
+        }
+      ]
+    },
+    "ingki": {
+      "translations": {
+        "english": "tight fitting dress",
+        "malay": "pakaian yang sendat"
+      },
+      "example_sentences": [
+      ]
+    },
+    "inugopon": {
+      "translations": {
+        "english": "rest house, stopping place",
+        "malay": "tempat perhentian, rumah rehat"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Sid puun do kazu tolombon ot inugopon dahai.",
+          "english": null,
+          "malay": "Di bawah pohon besar tempat perhentian kami."
+        }
+      ]
+    },
+    "iza'u": {
+      "translations": {
+        "english": "he",
+        "malay": "dia, beliau"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Siombo no iza'u di jiumanji do rumikot diri?",
+          "english": null,
+          "malay": "Di mana sudah dia yang berjanji untuk datang itu?"
+        }
+      ]
+    },
+    "jaga": {
+      "translations": {
+        "english": "guard, security guard",
+        "malay": "jaga, pengawal"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Jaga do sikul o karaja ku diti.",
+          "english": "I work as a security guard for the school.",
+          "malay": "Saya kerja sebagai pengawal sekolah."
+        }
+      ]
+    },
+    "jadi": {
+      "translations": {
+        "english": "happen, come about",
+        "malay": "jadi"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Jadi, nunu gamaon to suvab?",
+          "english": null,
+          "malay": "Jadi, apa yang kita akan buat esok?"
+        }
+      ]
+    },
+    "juli": {
+      "translations": {
+        "english": "bag",
+        "malay": "beg"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Posuvango ino buuk sid juli nu.",
+          "english": "Put the book inside your bag.",
+          "malay": "Masukkan buku itu ke dalam beg kamu."
+        }
+      ]
+    },
+    "juus": {
+      "translations": {
+        "english": "dozen",
+        "malay": "dozen"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Dagangai oku duvo juus do sugirit.",
+          "english": null,
+          "malay": "Belikan saya dua dozen rokok."
+        }
+      ]
+    },
+    "juvaran (juval)": {
+      "translations": {
+        "english": "thing to sales",
+        "malay": "barang jualan"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Navi lumaku i juvaranku ong biano.",
+          "english": null,
+          "malay": "Barang jualan saya laris kali ini."
+        }
+      ]
+    },
+    "kabahai": {
+      "translations": {
+        "english": "use somebody's tools as one's own without asking",
+        "malay": "mengambil milik orang lain tanpa kebenaran, sesuka hati sendiri"
+      },
+      "example_sentences": [
+      ]
+    },
+    "kakat": {
+      "translations": {
+        "english": "lift up",
+        "malay": "angkat"
+      },
+      "example_sentences": [
+        {
+          "rungus": null,
+          "english": null,
+          "malay": "Saya tidaka dapat angkat bekas air ini, ianya berat."
+        }
+      ]
+    },
+    "kinasangkapan": {
+      "translations": {
+        "english": "crucifixion",
+        "malay": "masa disalibkan"
+      },
+      "example_sentences": [
+      ]
+    },
+    "kindangau": {
+      "translations": {
+        "english": "solidified dirt in ears",
+        "malay": "tahi telinga yang keras"
+      },
+      "example_sentences": [
+      ]
+    },
+    "kuyunug": {
+      "translations": {
+        "english": "slowly",
+        "malay": "perlahan"
+      },
+      "example_sentences": [
+      ]
+    },
+    "laab": {
+      "translations": {
+        "english": "broad, wide",
+        "malay": "lebar (bagi kain)"
+      },
+      "example_sentences": [
+      ]
+    },
+    "latui": {
+      "translations": {
+        "english": "be clever, stand out",
+        "malay": "menonjol, tinggi atau panjang dari yang lain"
+      },
+      "example_sentences": [
+      ]
+    },
+    "longohon": {
+      "translations": {
+        "english": "flu, influenza",
+        "malay": "selesma"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Longohon oku ong didino, tu magadarun.",
+          "english": "Saya selesma sekarang kerana musim hujan.",
+          "malay": "Its rainy season and I got a flu because of it."
+        }
+      ]
+    },
+    "lumpag": {
+      "translations": {
+        "english": "clean from bad surface",
+        "malay": "matang, sudah biasa, tahan"
+      },
+      "example_sentences": [
+      ]
+    },
+    "lusu": {
+      "translations": {
+        "english": "dive, swim under water",
+        "malay": "selam"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Lusu modsu sid bavang om ezanan ogi do vaig inot tolingo nu.",
+          "english": null,
+          "malay": "Mandi selam dalam sungai supaya telinga kamu dimasuki air!"
+        }
+      ]
+    },
+    "mabpai": {
+      "translations": {
+        "english": "kind of small jar",
+        "malay": "tempayan kecil"
+      },
+      "example_sentences": [
+      ]
+    },
+    "manazun": {
+      "translations": {
+        "english": "big waves",
+        "malay": "ombak sebesar rumah"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Banalko agazo iti manazun tu i kolologod di barat.",
+          "english": null,
+          "malay": "Gelombang ombak sangat besar disebabkan angin yang kuat."
+        }
+      ]
+    },
+    "mibilad": {
+      "translations": {
+        "english": "hand wrestling",
+        "malay": "gusti lengan"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Mibilad kito kai, isai dikito do banalko ahakang.",
+          "english": "Let's do some hand wrestling, to see which of us is the strongest.",
+          "malay": null
+        }
+      ]
+    },
+    "monginsolu": {
+      "translations": {
+        "english": "do again",
+        "malay": "membuat ulang"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Baiko monginsolu po ino kumut dino tu nopupuan ku no.",
+          "english": null,
+          "malay": "Kain itu hanya perlu dicuci ulang saja sebab saya sudah mencucinya."
+        }
+      ]
+    },
+    "montoburui": {
+      "translations": {
+        "english": "kind of squirrel",
+        "malay": "sejenis tupai"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Montoburui mangakan dot ongokuvaan.",
+          "english": null,
+          "malay": "Tupai jenis montburui makan buagh-buahan."
+        }
+      ]
+    },
+    "nabarambang": {
+      "translations": {
+        "english": "crack all over",
+        "malay": "penuh retak"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Nabarambang ino gumoroi tu notobbing dot angaanak.",
+          "english": null,
+          "malay": "Tempayan itu penuh retak kerana anak-anak telah melanggarnya jatuh."
+        }
+      ]
+    },
+    "ngorok": {
+      "translations": {
+        "english": "break, crack (of china, stones)",
+        "malay": "bunyi roboh, bunyi patah (rumah, kayu, tulang)"
+      },
+      "example_sentences": [
+      ]
+    },
+    "nokempulanu": {
+      "translations": {
+        "english": "found the right way",
+        "malay": "menemui jalan yang benar"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Harapan do nokempulanu yoti di Ralan do Kabanaran.",
+          "english": null,
+          "malay": "Diharapkan agar mereka menemui Jalan Kebenaran."
+        }
+      ]
+    },
+    "notompikan": {
+      "translations": {
+        "english": "added, extended to",
+        "malay": "tambahan, meluas kepada"
+      },
+      "example_sentences": [
+      ]
+    },
+    "nunuk": {
+      "translations": {
+        "english": "fig tree, tree with broad leaves and soft pear-shaped fruit",
+        "malay": "pohon ara"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Monguva bala ino nunuk dino.",
+          "english": null,
+          "malay": "Pohon ara itu rupanya berbuah."
+        }
+      ]
+    },
+    "obig": {
+      "translations": {
+        "english": "sideline, push aside",
+        "malay": "tepikan, tidak pedulikan"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Pobigon yosido ong amu mongining tundaon.",
+          "english": null,
+          "malay": "Salahkan dengan sisihkan dia jika dia tidak mendengar ajaran."
+        }
+      ]
+    },
+    "ohizo": {
+      "translations": {
+        "english": "rub on, annoint",
+        "malay": "bising, riuh"
+      },
+      "example_sentences": [
+      ]
+    },
+    "oputaran": {
+      "translations": {
+        "english": null,
+        "malay": "penuh"
+      },
+      "example_sentences": [
+      ]
+    },
+    "osodiri": {
+      "translations": {
+        "english": "can be identified, can be isolated",
+        "malay": "dapat dikenalpasti, dapat diasingkan"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Amu osodiri ombo o punan ombo ot andaha ong pizak po manuk.",
+          "english": null,
+          "malay": "Tidak dapat dikenalpasti mana jantan dan mana betina jika masih lagi anak ayam."
+        }
+      ]
+    },
+    "ouruvan": {
+      "translations": {
+        "english": "serves him right",
+        "malay": "baru dia tahu"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Ouruvan no yalo tu yaddino araat o nagama sid koruhang!",
+          "english": "Serves him right for treating others so badly",
+          "malay": "Baru dia tahu. Teruk yang dia buat kepada orang!"
+        }
+      ]
+    },
+    "paanambat": {
+      "translations": {
+        "english": "visitor",
+        "malay": "penmumpang"
+      },
+      "example_sentences": [
+      ]
+    },
+    "piluru": {
+      "translations": {
+        "english": "bullet, shot balls",
+        "malay": "peluru"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Novian no piluru ilot askar hodi (sid tivi).",
+          "english": null,
+          "malay": "Askar (dalam TV) itu sudah kehabisan peluru."
+        }
+      ]
+    },
+    "poduli": {
+      "translations": {
+        "english": "allow, permit, take care",
+        "malay": "peduli, ambil berat"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Aso poduli ong araat koulun.",
+          "english": null,
+          "malay": "Tiada yang ambil peduli kalau orang yang jahat."
+        }
+      ]
+    },
+    "ponginag": {
+      "translations": {
+        "english": "Expectations",
+        "malay": "jangkaan"
+      },
+      "example_sentences": [
+      ]
+    },
+    "putu": {
+      "translations": {
+        "english": "locust",
+        "malay": "buah pisang yang paling kecil"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Asot akan ong putu tu asot onsi.",
+          "english": null,
+          "malay": "Buah pisang terakhir tiada yang dapaty di makan kerana ianya tiada isi."
+        }
+      ]
+    },
+    "ragam": {
+      "translations": {
+        "english": "play",
+        "malay": "bermacam ragam, gurauan, jenaka, lucu"
+      },
+      "example_sentences": [
+      ]
+    },
+    "rokizan": {
+      "translations": {
+        "english": "man",
+        "malay": "lelaki sejati"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Yaddino no ong rokizan, tuhunan i o tukad mindahu.",
+          "english": null,
+          "malay": "Begitulah kalau lelaki sejati, tangga dilompati sahaja."
+        }
+      ]
+    },
+    "ropuhan": {
+      "translations": {
+        "english": "kitchen, fireplace, place of offerings",
+        "malay": "dapur (ruang dapur)"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Ovito sid ropuhan inot ongosada dino.",
+          "english": null,
+          "malay": "Bawa ikan-ikan itu ke dapur"
+        }
+      ]
+    },
+    "rumuma'at": {
+      "translations": {
+        "english": "be bad",
+        "malay": "menjadi busuk"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Rumuma'at banal o ginavo ong, molohing kondiri nga patazon.",
+          "english": null,
+          "malay": "Hati menjadi sangat busuk sekiranya ibubapa pun dibunuh juga."
+        }
+      ]
+    },
+    "rutad": {
+      "translations": {
+        "english": "mince",
+        "malay": "cincang, potong kecil-kecil"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Rutado ino gizuk dino kensasana banal, koligogon.",
+          "english": null,
+          "malay": "Cincng habis ulat itu, ianya menggelikan."
+        }
+      ]
+    },
+    "saab": {
+      "translations": {
+        "english": "hold in mouth",
+        "malay": "di pegang dengan bibir atau mulut"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Saab po mangakan diti kinulat ku, omis.",
+          "english": null,
+          "malay": null
+        }
+      ]
+    },
+    "sasahavan": {
+      "translations": {
+        "english": "under",
+        "malay": "berada di bawah"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Sasavahan nu ino valai do surun. pogidu sino.",
+          "english": "You are under the hornet's nest, go away.",
+          "malay": "Kamu berada di bawah sarang tebuan, pergi dari situ."
+        }
+      ]
+    },
+    "sisirid": {
+      "translations": {
+        "english": "still there",
+        "malay": "masih di sana"
+      },
+      "example_sentences": [
+      ]
+    },
+    "suling": {
+      "translations": {
+        "english": "harmonica, mouth organ",
+        "malay": "harmonika"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Nababak i suling tu naladtakan ku.",
+          "english": null,
+          "malay": "Seruling itu pecah kerana saya terpijaknya."
+        }
+      ]
+    },
+    "suvu": {
+      "translations": {
+        "english": "feed",
+        "malay": "suap"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Nunu inot isuvu nu dino?",
+          "english": "What did you feed him/her?",
+          "malay": "Apa yang kamu suapkan?"
+        }
+      ]
+    },
+    "tabiu": {
+      "translations": {
+        "english": null,
+        "malay": "menarik muka, memek muka apabila tidak menyukai sesorang"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Atabiu ogi beno vuros nu!",
+          "english": null,
+          "malay": null
+        }
+      ]
+    },
+    "tayang": {
+      "translations": {
+        "english": "show, display, present",
+        "malay": "tayang, pamer"
+      },
+      "example_sentences": [
+      ]
+    },
+    "tombilavang": {
+      "translations": {
+        "english": "swordfish",
+        "malay": "ikan todak"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Nokoduk yalo do tombilavang.",
+          "english": null,
+          "malay": "Pancingnya dimakan ikan todak."
+        }
+      ]
+    },
+    "tumbak": {
+      "translations": {
+        "english": "head of spear (craftman like made)",
+        "malay": "tombak"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Tumbak po do monongJipun ong iti tumbak diti.",
+          "english": null,
+          "malay": "Ini adalah tombak semasa zaman Jepun."
+        }
+      ]
+    },
+    "tuung": {
+      "translations": {
+        "english": "box, case",
+        "malay": "kotak, tong"
+      },
+      "example_sentences": [
+      ]
+    },
+    "uhat": {
+      "translations": {
+        "english": "nerves, tendon, blood vessels",
+        "malay": "urat, saraf"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Minatai pogi ino sapi dino, noputut ino uhat do hakod dau.",
+          "english": null,
+          "malay": "Rupanya lembu itu mati sebab urat kakinya putus."
+        }
+      ]
+    },
+    "unang": {
+      "translations": {
+        "english": "interfere, destroy, mix",
+        "malay": "hancur, kacau,campur-aduk"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Banalko unang ino gama dioti mangansak dino sada.",
+          "english": null,
+          "malay": "Mereka memasak ikan itu dengan sangat hancur."
+        }
+      ]
+    },
+    "upan": {
+      "translations": {
+        "english": "feed, bait",
+        "malay": "umpan"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Nouza it upan do manuk.",
+          "english": null,
+          "malay": "Umpan ayam tertumpah."
+        }
+      ]
+    },
+    "urolizon": {
+      "translations": {
+        "english": "river",
+        "malay": "sungai"
+      },
+      "example_sentences": [
+      ]
+    },
+    "uva": {
+      "translations": {
+        "english": "fruit (general)",
+        "malay": "buah (umum)"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Asapou uva dilo ratu ong toun biano.",
+          "english": null,
+          "malay": "Pokok durian berbuah lebat tahun ini."
+        }
+      ]
+    },
+    "vaak": {
+      "translations": {
+        "english": null,
+        "malay": "mudah lentur"
+      },
+      "example_sentences": [
+      ]
+    },
+    "vatang": {
+      "translations": {
+        "english": "log",
+        "malay": "batang kayu"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Ogumu vatang ong sitid bavang do Montuson.",
+          "english": null,
+          "malay": "Sungai Montguson banyak batang kayu."
+        }
+      ]
+    },
+    "vizau": {
+      "translations": {
+        "english": "full stomach, satisfied hunger",
+        "malay": "kenyang"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Pising vizau no makan, kada kekum-ikum.",
+          "english": "Eat untiil you satisfied, don't be shy.",
+          "malay": "Makanlah sehingga kenyang, jangan malu-malu."
+        }
+      ]
+    },
+    "vudukut": {
+      "translations": {
+        "english": "curl up (as snake)",
+        "malay": "berlingkar (spt ular)"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Vudukut sinod timog nu ong sogiton ko no banal.",
+          "english": null,
+          "malay": "Berlingkar dalam selimut kamu kalau kamu kesejukkan."
+        }
+      ]
+    },
+    "vuvul": {
+      "translations": {
+        "english": "pull",
+        "malay": "cabut"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Vuvulo dikou ilo vulu do manuk ong olingkosuan ku no.",
+          "english": null,
+          "malay": "Kamu cabut buluh ayam aitu bila saya sudah menuangnya dnegan air panas."
+        }
+      ]
+    },
+    "wajit": {
+      "translations": {
+        "english": "black rice pudding",
+        "malay": "kuih wajit, sejenis manisan dari nasi pulut hitam"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Pangakan kou diti wajit do ginamaku.",
+          "english": null,
+          "malay": "Silakan makan kuih wajit yang saya buat."
+        }
+      ]
+    },
+    "wakil": {
+      "translations": {
+        "english": "assistent, delegate, deputy",
+        "malay": "wakil"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Isai wakil do Kampung Montuson tumanding do Kaamatan?",
+          "english": null,
+          "malay": "Siapa wakil Kampung Montuson bertanding dalam Kaamatan?"
+        }
+      ]
+    },
+    "wani": {
+      "translations": {
+        "english": "kind of mango",
+        "malay": "sejenis mangga yang harum baunya ketika masak"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Mansak no iti wani, ovongi ogi",
+          "english": null,
+          "malay": "Mangga wani itu sudah masak, ianya sangat harum."
+        }
+      ]
+    },
+    "woksop": {
+      "translations": {
+        "english": "workshop",
+        "malay": "bengkel"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Osusa mangatag iti kurita diti sid woksop.",
+          "english": "This car need to be repair at the workshop.",
+          "malay": "Kereta ini terpaksa dibaiki di bengkel."
+        }
+      ]
+    },
+    "yokoi": {
+      "translations": {
+        "english": "we",
+        "malay": "kami"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Yokoi diti ulun do mosikim.",
+          "english": null,
+          "malay": "Kami ini orang yang miskin."
+        }
+      ]
+    },
+    "yosido": {
+      "translations": {
+        "english": "he, she",
+        "malay": "kamu, dia"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Yosido bo minonudsul dohon sid tukad.",
+          "english": null,
+          "malay": "Dia yang menolak saya di tangga."
+        }
+      ]
+    },
+    "yoti": {
+      "translations": {
+        "english": "them",
+        "malay": "mereka"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Yoti Anak o varo manuk mahi dot ijuval dioti.",
+          "english": null,
+          "malay": "Mereka Anak yang ada ayam yang mereka mahu jual."
+        }
+      ]
+    },
+    "yuvag-uvag": {
+      "translations": {
+        "english": "falling love each other",
+        "malay": "lelaki dan perempuan saling mencintai"
+      },
+      "example_sentences": [
+
+      ]
+    },
+    "yadditi": {
+      "translations": {
+        "english": "like that",
+        "malay": "seperti ini"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Yadditi no gama-gamaon ong kumaraja sid valai. Magazau, momuhau om mobpupu.",
+          "english": null,
+          "malay": "Seperti inilah yang dibuat bila berkerja di rumah. Memasak, menyapu dan mencuci."
+        }
+      ]
+    },
+    "zuzuw": {
+      "translations": {
+        "english": "alongside, together with",
+        "malay": "sepanjang"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Zuzuw sitid timbuk ong mamanau ko.",
+          "english": "Walk along the dyke when you go.",
+          "malay": "Lalu atas benteng ini jika kamu mahu jalan."
+        }
+      ]
+    },
+    "zuhul": {
+      "translations": {
+        "english": "encourage secretly",
+        "malay": "galak"
+      },
+      "example_sentences": [
+
+      ]
+    },
+    "zuhu": {
+      "translations": {
+        "english": "kind, generous",
+        "malay": "murah hati"
+      },
+      "example_sentences": [
+
+      ]
+    },
+    "zopos": {
+      "translations": {
+        "english": "wet, moist",
+        "malay": "basah"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Ozopos oku diti tu nodorunan oku sid ralan.",
+          "english": null,
+          "malay": null
+        }
+      ]
+    },
+    "zizingo": {
+      "translations": {
+        "english": "lonelines, alone, silent (no sound of people)",
+        "malay": "keseorangan, kesunyian"
+      },
+      "example_sentences": [
+        {
+          "rungus": "Ozizingo ong aso koruhang sid valai.",
+          "english": null,
+          "malay": "Sunyi apabila tiada kawan di rumah."
+        }
+      ]
+    }
+}
