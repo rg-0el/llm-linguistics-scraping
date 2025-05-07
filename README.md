@@ -8,6 +8,8 @@ A Python-based web scraper designed to generally extract linguistic data from we
 * scrape.py: Fetches, normalizes HTML content
 * inference.py: Helpers for LLM inference, including prompt generation and response parsing
 
+* Wiki Page: https://wikis.swarthmore.edu/ling073/Rgoel1/Final_Project#An_LLM-Based_Approach_to_Generalized_Linguistic_Data_Scraping
+
 ## Functionality
 
 1.  **Data Extraction:**
