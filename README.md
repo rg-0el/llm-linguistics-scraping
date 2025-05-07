@@ -1,4 +1,4 @@
-# LLM-Powered Linguistic Data Extractor
+# LLM-Based Linguistic Data Extractor
 
 ## Overview
 
